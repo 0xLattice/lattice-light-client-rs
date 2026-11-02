@@ -1,0 +1,9 @@
+{
+  "node_revision": "3df9e0a786c7b103a3da88d1c3881efc81706255",
+  "lattice_revision": "dda2d852429a27be6043599b63bde81530cd9514",
+  "source_sha256": "aa4d7535ecc2dd6d35d5211b7b189649cf3d1c8151163589b8c611e2fcb45325",
+  "package_resolved_sha256": "958f69bd3ec734a372e8cd94e3d09d593674a1025979a2abe2b45a6f08cfc9a6",
+  "corpus_sha256": "fab9198b36f0f5ddabca07f583c017a60c5521afb96c037a1b16e13bda523234",
+  "cases": 34,
+  "method": "Unmodified full LightClientProtocol.swift compiled with pinned actual Lattice and cashew libraries; Rust-generated witnesses and adversarial mutations."
+}

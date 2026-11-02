@@ -1,0 +1,15 @@
+[package]
+name = "lattice-light-client"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+publish = false
+[dependencies]
+lattice-cashew = { path = "../cashew-rs" }
+lattice-primitives = { path = "../lattice-rs/crates/lattice-primitives" }
+serde = { version = "1", features = ["derive"] }
+base64 = "0.22"
+thiserror = "2"
+unicode-normalization = "0.1"
+[dev-dependencies]
+serde_json = "1"

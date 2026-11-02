@@ -1,0 +1,1991 @@
+[
+  {
+    "expected": true,
+    "kind": "account",
+    "name": "account",
+    "proof": {
+      "accountRoot": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 9,
+      "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreia7gxkg7suojuzatvbzogo7ehsfdz23keiyymvbk7kuvanfhjdk6q",
+          "data": "o2V2YWx1ZQlmcHJlZml4bF9ub25jZV9hbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+          "data": "omVjb3VudANoY2hpbGRyZW6DomNrZXlhX2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpYTdneGtnN3N1b2p1emF0dmJ6b2dvN2Voc2ZkejIza2VpeXltdmJrN2t1dmFuZmhqZGs2caJja2V5YWFldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWV0Zm8yd2lsNmxueWVrd21wcG13b2ptem5ha3Uyd2djbXZkb243dmN4NjN4bWdhb216bHmiY2tleWFiZXZhbHVloWZyYXdDSUR4O2JhZnlyZWlmdWxvZzd4N3JkaWY0am10ZHVybzJ6bmY0Mnd4aXgydTcycXhnbmZrb2hyNnVrZGJvM2hh"
+        },
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWIzbHpva3Nhc3ptbm8ydzZ5Ymp0NHJ3emZka2x3NG50ZmQ3bWwzcXZsMnU2ZWcya3NmNmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        }
+      ]
+    },
+    "swift": true
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "account-blockHeight",
+    "proof": {
+      "accountRoot": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 8,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 9,
+      "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreia7gxkg7suojuzatvbzogo7ehsfdz23keiyymvbk7kuvanfhjdk6q",
+          "data": "o2V2YWx1ZQlmcHJlZml4bF9ub25jZV9hbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+          "data": "omVjb3VudANoY2hpbGRyZW6DomNrZXlhX2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpYTdneGtnN3N1b2p1emF0dmJ6b2dvN2Voc2ZkejIza2VpeXltdmJrN2t1dmFuZmhqZGs2caJja2V5YWFldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWV0Zm8yd2lsNmxueWVrd21wcG13b2ptem5ha3Uyd2djbXZkb243dmN4NjN4bWdhb216bHmiY2tleWFiZXZhbHVloWZyYXdDSUR4O2JhZnlyZWlmdWxvZzd4N3JkaWY0am10ZHVybzJ6bmY0Mnd4aXgydTcycXhnbmZrb2hyNnVrZGJvM2hh"
+        },
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWIzbHpva3Nhc3ptbm8ydzZ5Ymp0NHJ3emZka2x3NG50ZmQ3bWwzcXZsMnU2ZWcya3NmNmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "account-stateRoot",
+    "proof": {
+      "accountRoot": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 9,
+      "stateRoot": "invalid",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreia7gxkg7suojuzatvbzogo7ehsfdz23keiyymvbk7kuvanfhjdk6q",
+          "data": "o2V2YWx1ZQlmcHJlZml4bF9ub25jZV9hbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+          "data": "omVjb3VudANoY2hpbGRyZW6DomNrZXlhX2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpYTdneGtnN3N1b2p1emF0dmJ6b2dvN2Voc2ZkejIza2VpeXltdmJrN2t1dmFuZmhqZGs2caJja2V5YWFldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWV0Zm8yd2lsNmxueWVrd21wcG13b2ptem5ha3Uyd2djbXZkb243dmN4NjN4bWdhb216bHmiY2tleWFiZXZhbHVloWZyYXdDSUR4O2JhZnlyZWlmdWxvZzd4N3JkaWY0am10ZHVybzJ6bmY0Mnd4aXgydTcycXhnbmZrb2hyNnVrZGJvM2hh"
+        },
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWIzbHpva3Nhc3ptbm8ydzZ5Ymp0NHJ3emZka2x3NG50ZmQ3bWwzcXZsMnU2ZWcya3NmNmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "account-missing-witness",
+    "proof": {
+      "accountRoot": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 9,
+      "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+      "timestamp": 123,
+      "witness": []
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "account-bad-base64",
+    "proof": {
+      "accountRoot": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 9,
+      "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreia7gxkg7suojuzatvbzogo7ehsfdz23keiyymvbk7kuvanfhjdk6q",
+          "data": "%%%"
+        },
+        {
+          "cid": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+          "data": "omVjb3VudANoY2hpbGRyZW6DomNrZXlhX2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpYTdneGtnN3N1b2p1emF0dmJ6b2dvN2Voc2ZkejIza2VpeXltdmJrN2t1dmFuZmhqZGs2caJja2V5YWFldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWV0Zm8yd2lsNmxueWVrd21wcG13b2ptem5ha3Uyd2djbXZkb243dmN4NjN4bWdhb216bHmiY2tleWFiZXZhbHVloWZyYXdDSUR4O2JhZnlyZWlmdWxvZzd4N3JkaWY0am10ZHVybzJ6bmY0Mnd4aXgydTcycXhnbmZrb2hyNnVrZGJvM2hh"
+        },
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWIzbHpva3Nhc3ptbm8ydzZ5Ymp0NHJ3emZka2x3NG50ZmQ3bWwzcXZsMnU2ZWcya3NmNmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "account-wrong-balance",
+    "proof": {
+      "accountRoot": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+      "address": "alice",
+      "balance": 43,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 9,
+      "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreia7gxkg7suojuzatvbzogo7ehsfdz23keiyymvbk7kuvanfhjdk6q",
+          "data": "o2V2YWx1ZQlmcHJlZml4bF9ub25jZV9hbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+          "data": "omVjb3VudANoY2hpbGRyZW6DomNrZXlhX2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpYTdneGtnN3N1b2p1emF0dmJ6b2dvN2Voc2ZkejIza2VpeXltdmJrN2t1dmFuZmhqZGs2caJja2V5YWFldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWV0Zm8yd2lsNmxueWVrd21wcG13b2ptem5ha3Uyd2djbXZkb243dmN4NjN4bWdhb216bHmiY2tleWFiZXZhbHVloWZyYXdDSUR4O2JhZnlyZWlmdWxvZzd4N3JkaWY0am10ZHVybzJ6bmY0Mnd4aXgydTcycXhnbmZrb2hyNnVrZGJvM2hh"
+        },
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWIzbHpva3Nhc3ptbm8ydzZ5Ymp0NHJ3emZka2x3NG50ZmQ3bWwzcXZsMnU2ZWcya3NmNmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "account-wrong-nonce",
+    "proof": {
+      "accountRoot": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 10,
+      "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreia7gxkg7suojuzatvbzogo7ehsfdz23keiyymvbk7kuvanfhjdk6q",
+          "data": "o2V2YWx1ZQlmcHJlZml4bF9ub25jZV9hbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+          "data": "omVjb3VudANoY2hpbGRyZW6DomNrZXlhX2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpYTdneGtnN3N1b2p1emF0dmJ6b2dvN2Voc2ZkejIza2VpeXltdmJrN2t1dmFuZmhqZGs2caJja2V5YWFldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWV0Zm8yd2lsNmxueWVrd21wcG13b2ptem5ha3Uyd2djbXZkb243dmN4NjN4bWdhb216bHmiY2tleWFiZXZhbHVloWZyYXdDSUR4O2JhZnlyZWlmdWxvZzd4N3JkaWY0am10ZHVybzJ6bmY0Mnd4aXgydTcycXhnbmZrb2hyNnVrZGJvM2hh"
+        },
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWIzbHpva3Nhc3ptbm8ydzZ5Ymp0NHJ3emZka2x3NG50ZmQ3bWwzcXZsMnU2ZWcya3NmNmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "account-wrong-header",
+    "proof": {
+      "accountRoot": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+        "target": "untrusted-target",
+        "timestamp": 124
+      },
+      "nonce": 9,
+      "stateRoot": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreia7gxkg7suojuzatvbzogo7ehsfdz23keiyymvbk7kuvanfhjdk6q",
+          "data": "o2V2YWx1ZQlmcHJlZml4bF9ub25jZV9hbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreib3lzoksaszmno2w6ybjt4rwzfdklw4ntfd7ml3qvl2u6eg2ksf6a",
+          "data": "omVjb3VudANoY2hpbGRyZW6DomNrZXlhX2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpYTdneGtnN3N1b2p1emF0dmJ6b2dvN2Voc2ZkejIza2VpeXltdmJrN2t1dmFuZmhqZGs2caJja2V5YWFldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWV0Zm8yd2lsNmxueWVrd21wcG13b2ptem5ha3Uyd2djbXZkb243dmN4NjN4bWdhb216bHmiY2tleWFiZXZhbHVloWZyYXdDSUR4O2JhZnlyZWlmdWxvZzd4N3JkaWY0am10ZHVybzJ6bmY0Mnd4aXgydTcycXhnbmZrb2hyNnVrZGJvM2hh"
+        },
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifyiwd5vksjhmn2etvs3l3ltykqpvsue5h5vydd52xtub4qbfnhzm",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWIzbHpva3Nhc3ptbm8ydzZ5Ymp0NHJ3emZka2x3NG50ZmQ3bWwzcXZsMnU2ZWcya3NmNmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": true,
+    "kind": "account",
+    "name": "accountZero",
+    "proof": {
+      "accountRoot": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 0,
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": true
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "accountZero-blockHeight",
+    "proof": {
+      "accountRoot": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 8,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 0,
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "accountZero-stateRoot",
+    "proof": {
+      "accountRoot": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 0,
+      "stateRoot": "invalid",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "accountZero-missing-witness",
+    "proof": {
+      "accountRoot": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 0,
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "timestamp": 123,
+      "witness": []
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "accountZero-bad-base64",
+    "proof": {
+      "accountRoot": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 0,
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "%%%"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "accountZero-wrong-balance",
+    "proof": {
+      "accountRoot": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+      "address": "alice",
+      "balance": 43,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 0,
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "accountZero-wrong-nonce",
+    "proof": {
+      "accountRoot": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+        "target": "untrusted-target",
+        "timestamp": 123
+      },
+      "nonce": 1,
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "account",
+    "name": "accountZero-wrong-header",
+    "proof": {
+      "accountRoot": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+      "address": "alice",
+      "balance": 42,
+      "blockHash": "untrusted-header-hash",
+      "blockHeight": 7,
+      "header": {
+        "cumulativeWork": "untrusted-work",
+        "hash": "untrusted-header-hash",
+        "height": 7,
+        "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+        "target": "untrusted-target",
+        "timestamp": 124
+      },
+      "nonce": 0,
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "timestamp": 123,
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": true,
+    "kind": "dictionary",
+    "name": "deposits",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "chain/alice",
+          "value": "18446744073709551615"
+        },
+        {
+          "key": "missing"
+        }
+      ],
+      "dictionary": "deposits",
+      "dictionaryRoot": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": true
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "deposits-blockHeight",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 8,
+      "claims": [
+        {
+          "key": "chain/alice",
+          "value": "18446744073709551615"
+        },
+        {
+          "key": "missing"
+        }
+      ],
+      "dictionary": "deposits",
+      "dictionaryRoot": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "deposits-stateRoot",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "chain/alice",
+          "value": "18446744073709551615"
+        },
+        {
+          "key": "missing"
+        }
+      ],
+      "dictionary": "deposits",
+      "dictionaryRoot": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+      "stateRoot": "invalid",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "deposits-missing-witness",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "chain/alice",
+          "value": "18446744073709551615"
+        },
+        {
+          "key": "missing"
+        }
+      ],
+      "dictionary": "deposits",
+      "dictionaryRoot": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": []
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "deposits-bad-base64",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "chain/alice",
+          "value": "18446744073709551615"
+        },
+        {
+          "key": "missing"
+        }
+      ],
+      "dictionary": "deposits",
+      "dictionaryRoot": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "%%%"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": true,
+    "kind": "dictionary",
+    "name": "deposits-empty-claims",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [],
+      "dictionary": "deposits",
+      "dictionaryRoot": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": true
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "deposits-wrong-claim",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "chain/alice",
+          "value": "wrong"
+        },
+        {
+          "key": "missing"
+        }
+      ],
+      "dictionary": "deposits",
+      "dictionaryRoot": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "deposits-duplicate-witness",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "chain/alice",
+          "value": "18446744073709551615"
+        },
+        {
+          "key": "missing"
+        }
+      ],
+      "dictionary": "deposits",
+      "dictionaryRoot": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        },
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": true,
+    "kind": "dictionary",
+    "name": "deposits-absence",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "absent",
+          "value": null
+        }
+      ],
+      "dictionary": "deposits",
+      "dictionaryRoot": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": true
+  },
+  {
+    "expected": true,
+    "kind": "dictionary",
+    "name": "receipts",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "tx/alice",
+          "value": "receipt-cid"
+        }
+      ],
+      "dictionary": "receipts",
+      "dictionaryRoot": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": true
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "receipts-blockHeight",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 8,
+      "claims": [
+        {
+          "key": "tx/alice",
+          "value": "receipt-cid"
+        }
+      ],
+      "dictionary": "receipts",
+      "dictionaryRoot": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "receipts-stateRoot",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "tx/alice",
+          "value": "receipt-cid"
+        }
+      ],
+      "dictionary": "receipts",
+      "dictionaryRoot": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+      "stateRoot": "invalid",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "receipts-missing-witness",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "tx/alice",
+          "value": "receipt-cid"
+        }
+      ],
+      "dictionary": "receipts",
+      "dictionaryRoot": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": []
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "receipts-bad-base64",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "tx/alice",
+          "value": "receipt-cid"
+        }
+      ],
+      "dictionary": "receipts",
+      "dictionaryRoot": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "%%%"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": true,
+    "kind": "dictionary",
+    "name": "receipts-empty-claims",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [],
+      "dictionary": "receipts",
+      "dictionaryRoot": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": true
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "receipts-wrong-claim",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "tx/alice",
+          "value": "wrong"
+        }
+      ],
+      "dictionary": "receipts",
+      "dictionaryRoot": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": false,
+    "kind": "dictionary",
+    "name": "receipts-duplicate-witness",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "tx/alice",
+          "value": "receipt-cid"
+        }
+      ],
+      "dictionary": "receipts",
+      "dictionaryRoot": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        },
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        }
+      ]
+    },
+    "swift": false
+  },
+  {
+    "expected": true,
+    "kind": "dictionary",
+    "name": "receipts-absence",
+    "proof": {
+      "block": {
+        "cid": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+        "data": "rGRzcGVjoWZyYXdDSUR4O2JhZnlyZWloY2FzNDU2NWRyZWJ5Zm5laXNqc3YzeGplMjdnenFmcWFtYW11bHQyY2h3ajJsdGhnd2ZhZW5vbmNlAGZoZWlnaHQHZnRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ3ZlcnNpb24BaGNoaWxkcmVuoWZyYXdDSUR4O2JhZnlyZWlnYnRqNHg3aXA1bGVnbmZ6bnVmdW9wbDRzZzRrbnpjMmNvZjZkdWFzNGIzcTJmeTZzd3VhaXBvc3RTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpZXIyYnhzZ2RsbzYzc3lqZWtzdHF6YWhtYWdveWVxM2NlMjc2ZWs3emlkZnJxdWY3ZXc0NGlwcmV2U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWRxemYzeHh4d3liaG91NnQ3M2t4MmlzeWh2dGphcndiYWZ1Z2xiNTJ1NXc0c29ldGJmMmFpdGltZXN0YW1wGHtqbmV4dFRhcmdldHhCMHhmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZma3BhcmVudFN0YXRloWZyYXdDSUR4O2JhZnlyZWlkcXpmM3h4eHd5YmhvdTZ0NzNreDJpc3lodnRqYXJ3YmFmdWdsYjUydTV3NHNvZXRiZjJhbHRyYW5zYWN0aW9uc6FmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaQ=="
+      },
+      "blockHash": "bafyreihw4th5j36i7iegytlunrjh24mx263j3jbxlnf76zrk5uhaxcfttu",
+      "blockHeight": 7,
+      "claims": [
+        {
+          "key": "absent",
+          "value": null
+        }
+      ],
+      "dictionary": "receipts",
+      "dictionaryRoot": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+      "stateRoot": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+      "witness": [
+        {
+          "cid": "bafyreib5zdy72pvkjrwnajjt7tvmqc35aefd3zggqnx3pkuqpkypcthlfi",
+          "data": "omVjb3VudABoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreibyulnv455km5rxms4brlk45tq6n4iacqq4jfyqatsc5gujiiffpa",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhdGV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZG1na3dsZnNubXd3eGhmb2F4ZDVidHpndnM2dXhyaDNzdXdiMm91YmhxMnB5anpxNW9hdQ=="
+        },
+        {
+          "cid": "bafyreidmgkwlfsnmwwxhfoaxd5btzgvs6uxrh3suwb2oubhq2pyjzq5oau",
+          "data": "o2V2YWx1ZWtyZWNlaXB0LWNpZGZwcmVmaXhodHgvYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreidwz4ojuxi52faoknjlfzu2gwniiw2gxdboiktkkh6dx5qhfplhym",
+          "data": "o2V2YWx1ZRv//////////2ZwcmVmaXhrY2hhaW4vYWxpY2VoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreier2bxsgdlo63syjekstqzahmagoyeq3ce276ek7zidfrquf7ew44",
+          "data": "pGxhY2NvdW50U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWdsM2c1emFuYWZ5Ym8ycmhmeXRmcGsyNWR6c25jeWtiMnJseDNhNWRxY283ZXJhMmt0MmFsZGVwb3NpdFN0YXRloWZyYXdDSUR4O2JhZnlyZWlmemcza2llbjJpNHRoZDd3djNsMml3bnkzdmc0ZXp0eGk0NjIzYTd6ZmU1em41encyYWl1bGdlbmVyYWxTdGF0ZaFmcmF3Q0lEeDtiYWZ5cmVpYjV6ZHk3MnB2a2pyd25hamp0N3R2bXFjMzVhZWZkM3pnZ3FueDNwa3VxcGt5cGN0aGxmaWxyZWNlaXB0U3RhdGWhZnJhd0NJRHg7YmFmeXJlaWJ5dWxudjQ1NWttNXJ4bXM0YnJsazQ1dHE2bjRpYWNxcTRqZnlxYXRzYzVndWppaWZmcGE="
+        },
+        {
+          "cid": "bafyreietfo2wil6lnyekwmppmwojmznaku2wgcmvdon7vcx63xmgaomzly",
+          "data": "o2V2YWx1ZRgqZnByZWZpeGVhbGljZWhjaGlsZHJlboA="
+        },
+        {
+          "cid": "bafyreifulog7x7rdif4jmtduro2znf42wxix2u72qxgnfkohr6ukdbo3ha",
+          "data": "o2V2YWx1ZRhjZnByZWZpeGNib2JoY2hpbGRyZW6A"
+        },
+        {
+          "cid": "bafyreifzg3kien2i4thd7wv3l2iwny3vg4eztxi4623a7zfe5zn5zw2aiu",
+          "data": "omVjb3VudAFoY2hpbGRyZW6BomNrZXlhY2V2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZHd6NG9qdXhpNTJmYW9rbmpsZnp1Mmd3bmlpdzJneGRib2lrdGtraDZkeDVxaGZwbGh5bQ=="
+        },
+        {
+          "cid": "bafyreigl3g5zanafybo2rhfytfpk25dzsncykb2rlx3a5dqco7era2kt2a",
+          "data": "omVjb3VudAJoY2hpbGRyZW6ComNrZXlhYWV2YWx1ZaFmcmF3Q0lEeDtiYWZ5cmVpZXRmbzJ3aWw2bG55ZWt3bXBwbXdvam16bmFrdTJ3Z2NtdmRvbjd2Y3g2M3htZ2FvbXpseaJja2V5YWJldmFsdWWhZnJhd0NJRHg7YmFmeXJlaWZ1bG9nN3g3cmRpZjRqbXRkdXJvMnpuZjQyd3hpeDJ1NzJxeGduZmtvaHI2dWtkYm8zaGE="
+        }
+      ]
+    },
+    "swift": true
+  }
+]
